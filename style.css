@@ -1,0 +1,87 @@
+body, #body{
+	font-family: sans-serif;
+	font-size: 100%;
+    background: rgba(127,212,240,1);
+	background: -moz-linear-gradient(left, rgba(127,212,240,1) 0%, rgba(94,198,232,1) 39%, rgba(68,187,226,1) 59%, rgba(44,177,221,1) 78%, rgba(44,177,221,1) 94%);
+	background: -webkit-gradient(left top, right top, color-stop(0%, rgba(127,212,240,1)), color-stop(39%, rgba(94,198,232,1)), color-stop(59%, rgba(68,187,226,1)), color-stop(78%, rgba(44,177,221,1)), color-stop(94%, rgba(44,177,221,1)));
+	background: -webkit-linear-gradient(left, rgba(127,212,240,1) 0%, rgba(94,198,232,1) 39%, rgba(68,187,226,1) 59%, rgba(44,177,221,1) 78%, rgba(44,177,221,1) 94%);
+	background: -o-linear-gradient(left, rgba(127,212,240,1) 0%, rgba(94,198,232,1) 39%, rgba(68,187,226,1) 59%, rgba(44,177,221,1) 78%, rgba(44,177,221,1) 94%);
+	background: -ms-linear-gradient(left, rgba(127,212,240,1) 0%, rgba(94,198,232,1) 39%, rgba(68,187,226,1) 59%, rgba(44,177,221,1) 78%, rgba(44,177,221,1) 94%);
+	background: linear-gradient(to right, rgba(127,212,240,1) 0%, rgba(94,198,232,1) 39%, rgba(68,187,226,1) 59%, rgba(44,177,221,1) 78%, rgba(44,177,221,1) 94%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7fd4f0', endColorstr='#2cb1dd', GradientType=1 );
+
+}
+
+p{
+	font-size: 25px;
+}
+
+h1, #Ptext{
+	color: #ffffff;
+	text-align:center;
+	padding-top:5%;
+	font-size: 50px;
+}
+
+#header1{
+
+	color: #ffffff;
+	margin-left: 20%;
+	margin-top: 15%;
+}
+
+#header{
+	color: #ffffff;
+	margin-left: 0%;
+	margin-top: 15%;
+}
+
+.bkg{
+	
+	/*background: url(pic8.jpeg) center center fixed;*/
+	background-size: cover;
+	width:100vw;
+	height: 100vh;
+ }
+
+ .form-group, .checkbox{
+ 	color: #ffffff;
+ }
+
+ .form-control{
+ 	color: #ffffff;
+ 	border: none;
+ 	outline: none;
+ 	border-bottom: 1.5px solid black;
+ 	background: transparent;
+ }
+
+ .form-container{
+ 	padding: 2% 20% 0% 20%;
+ 	/*-webkit-box-shadow: 0px 2px 6px 7px rgba(227,154,227,1);
+ 	-moz-box-shadow: 0px 2px 6px 7px rgba(227,154,227,1);
+ 	box-shadow: 0px 1px 4px 5px rgba(227,154,227,1);*/
+}
+.form-container2{
+	padding: 2% 34% 0% 0%;
+}
+
+button{	
+	background:transparent;
+	outline:3px solid white;
+}
+ #button-exit{	
+	background:transparent;
+	border:none;
+	outline:1px solid white;
+	width: 20%;
+	margin-left: 40%;
+	margin-top: 10%;
+}
+
+
+
+
+
+
+
